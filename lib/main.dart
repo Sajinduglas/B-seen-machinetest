@@ -9,8 +9,7 @@ void main() {
     MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => NomadicController()),
-        // ChangeNotifierProvider(create: (_) => YourSecondProvider()),
-        // Add more providers if needed
+       
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
