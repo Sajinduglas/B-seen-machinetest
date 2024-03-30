@@ -1,5 +1,11 @@
 # b_seen_machinetest
 
+day 3 task
+<img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/438c047d-1829-4204-8d68-0a418a7a0bc1" width="200" hieght="400">
+<img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/cf9cf8cc-88bd-4d48-8fd5-e0a00f099d2a" width="200" hieght="400">
+<img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/568d7860-692d-4307-83d5-4cdd049807dd" width="200" hieght="400">
+<img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/574c6d6b-c199-48f0-9ba0-0f4db03850ca"width="200" hieght="400">
+
 Day 2 task
 
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/e1f76b46-ce92-47fd-a068-ed0248df7dcc" width="200" hieght="400">
@@ -20,6 +26,7 @@ Day 1 task
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/81dfe02f-14a1-4e32-b47f-fb2b806da281" width="200" hieght="400">
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/31b067c9-8005-4c11-997c-d24f48402d62" width="200" hieght="400">
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/f30ef27e-8596-40aa-8d4c-4d10c28e77fd" width="200" hieght="400">
+
 
 
 
