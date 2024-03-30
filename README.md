@@ -4,7 +4,7 @@ day 3 task
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/438c047d-1829-4204-8d68-0a418a7a0bc1" width="200" hieght="400">
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/cf9cf8cc-88bd-4d48-8fd5-e0a00f099d2a" width="200" hieght="400">
 <img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/568d7860-692d-4307-83d5-4cdd049807dd" width="200" hieght="400">
-<img src="https://github.com/Sajinduglas/B-seen-machinetest/assets/145646694/574c6d6b-c199-48f0-9ba0-0f4db03850ca"width="200" hieght="400">
+
 
 Day 2 task
 
