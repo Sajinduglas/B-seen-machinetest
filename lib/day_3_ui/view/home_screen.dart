@@ -4,8 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-
-
 class ArabicAiHomeScreen extends StatefulWidget {
   const ArabicAiHomeScreen({super.key});
 
@@ -29,7 +27,6 @@ class _ArabicAiHomeScreenState extends State<ArabicAiHomeScreen> {
           ),
           centerTitle: true,
           title: Container(
-      
             width: 200,
             margin: EdgeInsets.symmetric(horizontal: 30, vertical: 10),
             height: 40,
@@ -40,14 +37,15 @@ class _ArabicAiHomeScreenState extends State<ArabicAiHomeScreen> {
               border: Border.all(
                 width: 1.8,
                 color: Colors.blue,
-      
+
                 // Set border color to transparent
               ),
             ),
             child: Text(
               "Manage plans",
               selectionColor: Colors.white,
-              style: TextStyle(fontSize: 20,
+              style: TextStyle(
+                fontSize: 20,
                 color: Colors.white70,
               ),
             ),
@@ -72,7 +70,7 @@ class _ArabicAiHomeScreenState extends State<ArabicAiHomeScreen> {
             )
           ],
         ),
-        body:  SingleChildScrollView(
+        body: SingleChildScrollView(
           child: Column(
             children: [
               CarouselWithIconsAndDots(),
@@ -89,23 +87,25 @@ class _ArabicAiHomeScreenState extends State<ArabicAiHomeScreen> {
                 firstText: 'ARABY GPT',
                 secondText: 'Your personalised Ai assiastant',
                 imageUrl: "assets/images/aiimage.jpg",
-                borderColor: Colors.blue,
+                borderColor: Colors.tealAccent,
+                secondBorderColor: Colors.blue,
               ),
               CustomCard(
                 firstText: 'Writer section',
                 secondText: 'Enhance your writeing process',
-                 // imageUrl: "assets/images/uk flag.jpg",
-                borderColor: Colors.greenAccent,
+                // imageUrl: "assets/images/uk flag.jpg",
+
+                borderColor: Colors.tealAccent,
+                secondBorderColor: Colors.blue,
                 iconData: CupertinoIcons.pencil,
-      
               ),
               CustomCard(
                 firstText: 'Media section',
                 secondText: 'Bring your ideas to life ',
                 // imageUrl: "assets/images/uk flag.jpg",
-                borderColor: Colors.yellow,
                 iconData: Icons.image,
-      
+                borderColor: Colors.tealAccent,
+                secondBorderColor: Colors.blue,
               ),
             ],
           ),
